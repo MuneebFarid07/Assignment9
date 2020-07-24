@@ -1,0 +1,20 @@
+
+document.write("<h2>Question1</h2>");
+var age;
+age=24;
+alert("I am "+age+" years old");
+document.write("<h2>Question2</h2>");
+var visits=50;
+alert("You have visited this site "+visits+" times");
+document.write("<h2>Question3</h2>");
+var birthYear;
+birthYear=19996;
+var abc;
+abc = "<br>Data type of my declared variable isData type of my declared variable is";
+document.write("hello");
+document.write("My birth year is "+birthYear+abc+typeof(birthYear));
+document.write("<h2>Question4</h2>");
+uname="Muneeb Farid";
+title="Pizza";
+quantity=7;
+document.write(uname+" ordered "+quantity+" "+title+"(s) on Pizza Point");
